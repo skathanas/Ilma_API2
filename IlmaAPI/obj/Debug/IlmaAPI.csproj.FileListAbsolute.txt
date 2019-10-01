@@ -1,0 +1,12 @@
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\bin\Debug\IlmaAPI.exe.config
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\bin\Debug\IlmaAPI.exe
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\bin\Debug\IlmaAPI.pdb
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.csprojAssemblyReference.cache
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.Ilma_API.resources
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.Properties.Resources.resources
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.csproj.GenerateResource.cache
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.exe
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.pdb
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2019\API\IlmaAPI\IlmaAPI\obj\Debug\IlmaAPI.csproj.CopyComplete
